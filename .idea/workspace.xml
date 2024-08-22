@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW Template">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW2 pseudo-code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW Template.executor": "Run",
+    "Python.HW2.executor": "Run",
     "Python.PB and J.executor": "Run",
     "Python.pythonMath.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724092985378</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added HW2 pseudo-code">
+      <option name="closed" value="true" />
+      <created>1724267309048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724267309048</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Hello 6th Hour Print" />
     <MESSAGE value="Added pythonMath notes" />
     <MESSAGE value="Added HW Template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW Template" />
+    <MESSAGE value="Added HW2 pseudo-code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW2 pseudo-code" />
   </component>
 </project>
