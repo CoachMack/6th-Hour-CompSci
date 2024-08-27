@@ -7,7 +7,7 @@
 print("Hello World!")
 #Make an input that asks for your name
 name = input("What is your name? ")
-(f"Hello to {name}'s 6th hour class!")
+print(f"Hello to {name}'s 6th hour class!")
 nameTitle = name.title()
 nameUpper = name.upper()
 nameLower = name.lower()
