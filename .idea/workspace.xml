@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW3 Assignment">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added optimizations and lecture notes to HW3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Python.HW3.executor": "Run",
     "Python.Lists Notes.executor": "Run",
     "Python.PB and J.executor": "Run",
+    "Python.PlaygroundFixesLecture.executor": "Run",
     "Python.pythonMath.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -188,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724864584222</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added optimizations and lecture notes to HW3">
+      <option name="closed" value="true" />
+      <created>1725389611702</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725389611702</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,6 +209,7 @@
     <MESSAGE value="Added Lists lecture notes" />
     <MESSAGE value="Updated Lists lecture notes with comments providing more information" />
     <MESSAGE value="Added HW3 Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW3 Assignment" />
+    <MESSAGE value="Added optimizations and lecture notes to HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added optimizations and lecture notes to HW3" />
   </component>
 </project>
