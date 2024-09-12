@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added optimizations and lecture notes to HW3">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added lecture notes for common issues found during playground assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.DictionariesLecture.executor": "Run",
     "Python.HW Template.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
@@ -196,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725389611702</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added lecture notes for common issues found during playground assignment">
+      <option name="closed" value="true" />
+      <created>1725908450318</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725908450318</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,6 +219,7 @@
     <MESSAGE value="Updated Lists lecture notes with comments providing more information" />
     <MESSAGE value="Added HW3 Assignment" />
     <MESSAGE value="Added optimizations and lecture notes to HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added optimizations and lecture notes to HW3" />
+    <MESSAGE value="Added lecture notes for common issues found during playground assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added lecture notes for common issues found during playground assignment" />
   </component>
 </project>
