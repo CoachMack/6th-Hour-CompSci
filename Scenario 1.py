@@ -1,5 +1,5 @@
 #Name:
-#Class: 5th Hour
+#Class: 6th Hour
 #Assignment: Scenario 1
 
 #Scenario 1:
