@@ -17,5 +17,6 @@
 #code seems to not work correctly. For example, one of the testers changed
 #the damage for an enemy to 30 per attack, but when they attacked the player
 #character, the health went from 100 to 10030 instead of the intended 70.
-#Your team lead has asked you to fix the bug.
+#Your team lead has asked you to fix the bug and make sure your enemy damage
+#can be subtracted properly while testing.
 #(HINT: The player's health is stored as an integer.)

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Scenario 1 Assignment">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Updated Scenario 1 Assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726510870893</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Updated Scenario 1 Assignment">
+      <option name="closed" value="true" />
+      <created>1726676803219</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726676803219</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -263,6 +271,7 @@
     <MESSAGE value="Added Dictionaries Lecture and HW4 assignment" />
     <MESSAGE value="Added Scenarion 1 Assignment" />
     <MESSAGE value="Added Scenario 1 Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 1 Assignment" />
+    <MESSAGE value="Updated Scenario 1 Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Scenario 1 Assignment" />
   </component>
 </project>
