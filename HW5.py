@@ -1,5 +1,5 @@
 #Name:
-#Class: 5th Hour
+#Class: 6th Hour
 #Assignment: HW5
 
 #1. Print "Hello World!"
