@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Reworked Lecture Notes to make finding things easier" />
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -302,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727458422815</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Added HW6">
+      <option name="closed" value="true" />
+      <created>1727716090400</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727716090400</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -325,6 +333,7 @@
     <MESSAGE value="Added Scenario 1 and 2 lecture notes" />
     <MESSAGE value="Added Conditional Lecture and HW5" />
     <MESSAGE value="Reworked Lecture Notes to make finding things easier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reworked Lecture Notes to make finding things easier" />
+    <MESSAGE value="Added HW6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW6" />
   </component>
 </project>

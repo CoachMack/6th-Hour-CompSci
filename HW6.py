@@ -7,7 +7,7 @@
 
 #1. Print Hello World!
 
-#2. Create a variable named num and assign it a variable.
+#2. Create a variable named num and assign it a number.
 
 #3. Create a nested if statement follows this structure:
 
