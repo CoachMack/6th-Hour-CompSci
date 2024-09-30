@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Conditional Lecture and HW5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DictionariesLecture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists Notes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PB and J.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlaygroundFixesLecture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonMath.py" beforeDir="false" />
-    </list>
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Reworked Lecture Notes to make finding things easier" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -301,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727456495753</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Reworked Lecture Notes to make finding things easier">
+      <option name="closed" value="true" />
+      <created>1727458422815</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727458422815</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -323,6 +324,7 @@
     <MESSAGE value="Added Scenario 2" />
     <MESSAGE value="Added Scenario 1 and 2 lecture notes" />
     <MESSAGE value="Added Conditional Lecture and HW5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Conditional Lecture and HW5" />
+    <MESSAGE value="Reworked Lecture Notes to make finding things easier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reworked Lecture Notes to make finding things easier" />
   </component>
 </project>
