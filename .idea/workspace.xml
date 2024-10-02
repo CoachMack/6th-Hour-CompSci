@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW6" />
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,28 +47,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DictionariesLecture.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW Template.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture - Conditional Statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lists Notes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PB and J.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PlaygroundFixesLecture.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonMath.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DictionariesLecture.executor": "Run",
+    "Python.HW Template.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.Lecture - Conditional Statements.executor": "Run",
+    "Python.Lecture - How NOT to sort.executor": "Run",
+    "Python.Lists Notes.executor": "Run",
+    "Python.PB and J.executor": "Run",
+    "Python.PlaygroundFixesLecture.executor": "Run",
+    "Python.Scenario 1.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "Python.pythonMath.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -310,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727716090400</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added HW6">
+      <option name="closed" value="true" />
+      <created>1727721066822</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727721066822</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
