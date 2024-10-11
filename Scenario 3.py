@@ -16,6 +16,35 @@
 # - a damage roll (a number that varies based on weapon/spell)
 # - and an Armor Class (somewhere between 10 and 17).
 
+#To make things easier, here is a reference list for party damage rolls.
+#(Feel free to use similar numbers for your enemy dictionary.)
+
+# - Lae'Zel uses a greatsword: 2d6 + 3
+# - Shadowheart uses a mace: 1d6 + 2
+# - Gale uses the firebolt spell: 1d10
+# - Astarion uses a shortbow: 1d6 + 4
+
+#Step 1: Bring over Party Dictionary
+
+#Step 2: Bring over Enemy Dictionary
+
+#Step 3: Make sure every party and enemy has health points (fixed)
+
+#Step 4: Make sure every party and enemy has an attack modifier (fixed)
+
+#Step 5: Make sure every party and enemy has an an armor class (AC) (fixed)
+
+#Step 6: Make sure every party and enemy has an damage roll (random)
+
+
+#Party Dictionary Goes Here
+
+
+
+#Enemy Dictionary Goes Here
+
+
+
 #Once both dictionaries are updated, create a combat
 #prototype that has a party member attack first, then an enemy
 #attacks back right after.
@@ -27,22 +56,22 @@
 #attack misses. If an enemy or party member hits zero (0) health
 #points, they die.
 
-#To make things easier, here is a reference list for party damage rolls.
-#(Feel free to use similar numbers for your enemy dictionary.)
+#Step 7: Roll the attack roll for party member (d20 + Attack Modifier)
 
-# - Lae'Zel uses a greatsword: 2d6 + 3
-# - Shadowheart uses a mace: 1d6 + 2
-# - Gale uses the firebolt spell: 1d10
-# - Astarion uses a shortbow: 1d6 + 4
+#Step 8: Check to see if the party member hits the enemy
 
+#Step 9: Roll damage if it hits and subtract from enemy health
 
+#Step 10: Check to see if the enemy is still alive
 
-
-#Party Dictionary Goes Here
+#Step 11: If the enemy is alive, repeat steps 7 through 10 but with the enemy attacking
 
 
 
-#Enemy Dictionary Goes Here
+
+
+
+
 
 
 
