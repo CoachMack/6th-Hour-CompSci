@@ -1,6 +1,7 @@
 #Name:
 #Class: 6th Hour
 #Assignment: Scenario 3
+import random
 
 #Scenario 3:
 #Now that the game development team has a dictionary for enemies
@@ -38,11 +39,79 @@
 
 
 #Party Dictionary Goes Here
-
+partyDict = {
+    "LaeZel" : {
+        "Race" : "Githyanki",
+        "Class" : "Fighter",
+        "Background" : "Soldier",
+        "Health" : 12,
+        "AC" : 17,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,6) + random.randint(1,6) + 3
+    },
+    "Shadowheart" : {
+        "Race" : "Half-Elf",
+        "Class" : "Cleric",
+        "Background" : "Acolyte",
+        "Health" : 10,
+        "AC" : 14,
+        "AtkMod": 3,
+        "Damage" : random.randint(1,6) + 3,
+    },
+    "Gale" : {
+        "Race" : "Human",
+        "Class" : "Wizard",
+        "Background" : "Sage",
+        "Health" : 8,
+        "AC" : 14,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,10),
+    },
+    "Astarion" : {
+        "Race" : "High Elf",
+        "Class" : "Rogue",
+        "Background" : "Charlatan",
+        "Health" : 10,
+        "AC" : 14,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,6) + 4,
+    }
+}
 
 
 #Enemy Dictionary Goes Here
-
+enemyDict = {
+    "Goblin" : {
+        "Health" : 6,
+        "AC" : 12,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,6) + 4,
+    },
+    "Orc": {
+        "Health" : 14,
+        "AC" : 14,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,6) + 4,
+    },
+    "Troll": {
+        "Health" : 22,
+        "AC" : 13,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,6) + 4,
+    },
+    "Dragon": {
+        "Health" : 56,
+        "AC" : 17,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,6) + 4,
+    },
+    "Mindflayer": {
+        "Health" : 110,
+        "AC" : 16,
+        "AtkMod": 5,
+        "Damage" : random.randint(1,6) + 4,
+    }
+}
 
 
 #Once both dictionaries are updated, create a combat
@@ -76,3 +145,35 @@
 
 
 #Combat Code Goes Here
+
+#What variables do we need?
+# - Enemy AC
+# - D20 Roll
+# - Enemy's Health
+# - Party Attack Mod
+# - Party Damage Roll
+
+#if D20 + Party Attack Mod is greater than Enemy AC
+if random.randint(1,20) + partyDict["Shadowheart"]["AtkMod"] >= enemyDict["Goblin"]["AC"]:
+#   We hit! Deal Damage (subtract Party Damage Roll from HP)
+    enemyDict["Goblin"]["Health"] -= partyDict["Shadowheart"]["Damage"]
+    #Check to see if enemy is dead
+    if enemyDict["Goblin"]["Health"] <= 0:
+        print("Gobbo was hit! Gobbo is dead!")
+        exit()
+    #else, go to enemy turn
+    else:
+        print("Gobbo was hit! Gobbo is still alive!")
+#else, we miss
+else:
+    print("Shadowheart Missed!")
+
+if random.randint(1,20) + enemyDict["Goblin"]["AtkMod"] >= partyDict["Shadowheart"]["AC"]:
+    partyDict["Shadowheart"]["Health"] -= enemyDict["Goblin"]["Damage"]
+    if partyDict["Shadowheart"]["Health"] <= 0:
+        print("Gobbo hit! Shadowheart is down!")
+        exit()
+    else:
+        print("Gobbo hit! Shadowheart is alive!")
+else:
+    print("No one hit!")
