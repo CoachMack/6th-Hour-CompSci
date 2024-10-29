@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW8 work">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario 3.py" afterDir="false" />
-    </list>
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Scenario 3 notes and While Loops Lecture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -377,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1729709152057</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Added Scenario 3 notes and While Loops Lecture">
+      <option name="closed" value="true" />
+      <created>1730141918677</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1730141918677</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Hello 6th Hour Print" />
     <MESSAGE value="Added pythonMath notes" />
     <MESSAGE value="Added HW Template" />
     <MESSAGE value="Added HW2 pseudo-code" />
@@ -406,6 +410,7 @@
     <MESSAGE value="Added HW6 and HW7 notes" />
     <MESSAGE value="Added Scenario 3" />
     <MESSAGE value="Added HW8 work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW8 work" />
+    <MESSAGE value="Added Scenario 3 notes and While Loops Lecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 3 notes and While Loops Lecture" />
   </component>
 </project>
