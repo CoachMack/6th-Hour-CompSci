@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW10 and HW11 answer notes">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture - While Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture - While Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,34 +46,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DictionariesLecture.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW Template.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture - Conditional Statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture - How NOT to sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture - While Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lists Notes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PB and J.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PlaygroundFixesLecture.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TestBox.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonMath.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DictionariesLecture.executor": "Run",
+    "Python.HW Template.executor": "Run",
+    "Python.HW10.executor": "Run",
+    "Python.HW11.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
+    "Python.Lecture - Conditional Statements.executor": "Run",
+    "Python.Lecture - For Loops.executor": "Run",
+    "Python.Lecture - How NOT to sort.executor": "Run",
+    "Python.Lecture - While Loops.executor": "Run",
+    "Python.Lists Notes.executor": "Run",
+    "Python.PB and J.executor": "Run",
+    "Python.PlaygroundFixesLecture.executor": "Run",
+    "Python.Scenario 1.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "Python.Scenario 3.executor": "Run",
+    "Python.TestBox.executor": "Run",
+    "Python.pythonMath.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -411,11 +411,26 @@
       <option name="project" value="LOCAL" />
       <updated>1730750162305</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Added HW10 and HW11 answer notes">
+      <option name="closed" value="true" />
+      <created>1730916990104</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1730916990104</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added HW12">
+      <option name="closed" value="true" />
+      <created>1730917003105</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1730917003105</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW2 homework notes" />
     <MESSAGE value="Added more HW2 lecture notes" />
     <MESSAGE value="Added Lists lecture notes" />
     <MESSAGE value="Updated Lists lecture notes with comments providing more information" />
@@ -440,6 +455,7 @@
     <MESSAGE value="Added HW10 and HW11" />
     <MESSAGE value="Added HW10 clarification" />
     <MESSAGE value="Added HW10 and HW11 answer notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW10 and HW11 answer notes" />
+    <MESSAGE value="Added HW12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW12" />
   </component>
 </project>
