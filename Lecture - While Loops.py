@@ -1,5 +1,5 @@
 #Name: Coach Mack
-#Class: 5th Hour
+#Class: 6th Hour
 #Assignment: Lecture - While Loops
 
 #This is the "time" library. This is to do cool stuff with time like delays.
