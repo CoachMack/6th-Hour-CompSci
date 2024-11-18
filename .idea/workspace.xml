@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW12 notes, and HW13 and 14">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Scenario 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -446,11 +444,18 @@
       <option name="project" value="LOCAL" />
       <updated>1731440540194</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Added Scenario 4">
+      <option name="closed" value="true" />
+      <created>1731954710050</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1731954710050</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated Lists lecture notes with comments providing more information" />
     <MESSAGE value="Added HW3 Assignment" />
     <MESSAGE value="Added optimizations and lecture notes to HW3" />
     <MESSAGE value="Added lecture notes for common issues found during playground assignment" />
@@ -475,6 +480,7 @@
     <MESSAGE value="Added HW12" />
     <MESSAGE value="Added For Loops Lecture" />
     <MESSAGE value="Added HW12 notes, and HW13 and 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW12 notes, and HW13 and 14" />
+    <MESSAGE value="Added Scenario 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 4" />
   </component>
 </project>

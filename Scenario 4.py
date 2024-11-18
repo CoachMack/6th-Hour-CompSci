@@ -5,7 +5,7 @@
 #Scenario 4:
 #Due to scope creep leading to high development costs, the RPG you were working on has been
 #shelved for the time being. You have been transferred to a new team working on a mobile game
-#that allows you to dress up a model and rate other models.
+#that allows you to dress up a model and rate other models in a "Project Runway" style competition.
 
 #They want to start prototyping the rating system and are asking you to make it.
 #This prototype needs to allow the user to input the number of players, let each player rate
