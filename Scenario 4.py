@@ -11,6 +11,12 @@
 #This prototype needs to allow the user to input the number of players, let each player rate
 #a single model from 1 to 5, and then give the average score of all of the ratings.
 
+#Objectives:
+#1. Make an input that asks for number of players.
+#2. Have each player input a ranking from 1-5.
+#3. Find the average of the player rankings and print it.
+
+#Pseudocode:
 #Step 1. Establish Variables
 
 #Step 2. Make a loop
