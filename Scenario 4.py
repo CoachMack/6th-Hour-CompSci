@@ -18,13 +18,25 @@
 
 #Pseudocode:
 #Step 1. Establish Variables
+players = int(input("Enter number of players: "))
+i = 1
+ratingSum = 0
+
+if players < 2:
+    print("Error, not enough players")
+    exit()
 
 #Step 2. Make a loop
-
+while i <= players:
 #Step 2a. Ask for a rating number
-
-#Step 2b. Check if rating number is between 1 and 5
-
-#Step 2c. If rating number is valid, add to total
+    rating = int(input("Enter rating from 1 to 5: "))
+    #Step 2b. Check if rating number is between 1 and 5
+    if rating > 5 or rating < 1:
+        print("Error, invalid rating")
+    #Step 2c. If rating number is valid, add to total
+    else:
+        i += 1
+        ratingSum += rating
 
 #Step 3. Find and print the average
+print("The Average Rating is: ", ratingSum / players)
