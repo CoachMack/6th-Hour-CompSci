@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Scenario 5">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Refresher Lecture Notes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture - Refresher.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,7 @@
     "Python.HW6.executor": "Run",
     "Python.HW7.executor": "Run",
     "Python.Lecture - Conditional Statements.executor": "Run",
+    "Python.Lecture - Def Functions.executor": "Run",
     "Python.Lecture - For Loops.executor": "Run",
     "Python.Lecture - How NOT to sort.executor": "Run",
     "Python.Lecture - Refresher.executor": "Run",
@@ -84,7 +86,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -96,14 +98,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723573321926</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added pythonMath notes">
-      <option name="closed" value="true" />
-      <created>1723748501186</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1723748501186</updated>
     </task>
     <task id="LOCAL-00003" summary="Added pythonMath notes">
       <option name="closed" value="true" />
@@ -489,11 +483,29 @@
       <option name="project" value="LOCAL" />
       <updated>1733767096267</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Added Refresher Lecture Notes">
+      <option name="closed" value="true" />
+      <created>1736366150053</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1736366150055</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Dictionaries Lecture and HW4 assignment" />
     <MESSAGE value="Added Scenarion 1 Assignment" />
     <MESSAGE value="Added Scenario 1 Assignment" />
     <MESSAGE value="Updated Scenario 1 Assignment" />
@@ -518,6 +530,7 @@
     <MESSAGE value="Added Scenario 4 pseudocode" />
     <MESSAGE value="Added Notes for HW13, HW14, and Scenario 4" />
     <MESSAGE value="Added Scenario 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 5" />
+    <MESSAGE value="Added Refresher Lecture Notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Refresher Lecture Notes" />
   </component>
 </project>
