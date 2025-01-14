@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Refresher Lecture Notes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture - Refresher.py" beforeDir="false" />
-    </list>
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Def Function lecture code (will add notes later)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,14 +95,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723573321926</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added pythonMath notes">
-      <option name="closed" value="true" />
-      <created>1723748538864</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1723748538864</updated>
     </task>
     <task id="LOCAL-00004" summary="Added pythonMath notes">
       <option name="closed" value="true" />
@@ -491,7 +480,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736366150055</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Added Def Function lecture code (will add notes later)">
+      <option name="closed" value="true" />
+      <created>1736798299145</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1736798299145</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Scenarion 1 Assignment" />
     <MESSAGE value="Added Scenario 1 Assignment" />
     <MESSAGE value="Updated Scenario 1 Assignment" />
     <MESSAGE value="Added Scenario 2" />
@@ -531,6 +527,7 @@
     <MESSAGE value="Added Notes for HW13, HW14, and Scenario 4" />
     <MESSAGE value="Added Scenario 5" />
     <MESSAGE value="Added Refresher Lecture Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Refresher Lecture Notes" />
+    <MESSAGE value="Added Def Function lecture code (will add notes later)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Def Function lecture code (will add notes later)" />
   </component>
 </project>
