@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;CoachMack&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/CoachMack/6th-Hour-CompSci.git&quot;,
-    &quot;accountId&quot;: &quot;e4417706-3df7-43fc-89a3-12d152b5c5c8&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CoachMack/6th-Hour-CompSci.git",
+    "accountId": "185de2c6-a3eb-406b-873f-10863b60bc0e"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,46 +44,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DictionariesLecture.executor": "Run",
-    "Python.HW Template.executor": "Run",
-    "Python.HW10.executor": "Run",
-    "Python.HW11.executor": "Run",
-    "Python.HW12.executor": "Run",
-    "Python.HW13.executor": "Run",
-    "Python.HW14.executor": "Run",
-    "Python.HW2.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW5.executor": "Run",
-    "Python.HW6.executor": "Run",
-    "Python.HW7.executor": "Run",
-    "Python.Lecture - Conditional Statements.executor": "Run",
-    "Python.Lecture - Def Functions.executor": "Run",
-    "Python.Lecture - For Loops.executor": "Run",
-    "Python.Lecture - How NOT to sort.executor": "Run",
-    "Python.Lecture - Refresher.executor": "Run",
-    "Python.Lecture - While Loops.executor": "Run",
-    "Python.Lists Notes.executor": "Run",
-    "Python.PB and J.executor": "Run",
-    "Python.PlaygroundFixesLecture.executor": "Run",
-    "Python.Scenario 1.executor": "Run",
-    "Python.Scenario 2.executor": "Run",
-    "Python.Scenario 3.executor": "Run",
-    "Python.Scenario 4.executor": "Run",
-    "Python.TestBox.executor": "Run",
-    "Python.pythonMath.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DictionariesLecture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW Template.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Conditional Statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Def Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - For Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - How NOT to sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Refresher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - While Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists Notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB and J.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PlaygroundFixesLecture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestBox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonMath.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
