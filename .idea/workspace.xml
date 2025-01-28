@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW17">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW16.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW17.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/CoachMack/6th-Hour-CompSci.git&quot;,
-    &quot;accountId&quot;: &quot;185de2c6-a3eb-406b-873f-10863b60bc0e&quot;
+    &quot;accountId&quot;: &quot;e4417706-3df7-43fc-89a3-12d152b5c5c8&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,6 +58,9 @@
     "Python.HW12.executor": "Run",
     "Python.HW13.executor": "Run",
     "Python.HW14.executor": "Run",
+    "Python.HW15.executor": "Run",
+    "Python.HW16.executor": "Run",
+    "Python.HW17.executor": "Run",
     "Python.HW18.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
@@ -86,7 +92,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -506,8 +512,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated Scenario 1 Assignment" />
-    <MESSAGE value="Added Scenario 2" />
     <MESSAGE value="Added Scenario 1 and 2 lecture notes" />
     <MESSAGE value="Added Conditional Lecture and HW5" />
     <MESSAGE value="Reworked Lecture Notes to make finding things easier" />
@@ -531,6 +535,8 @@
     <MESSAGE value="Added Refresher Lecture Notes" />
     <MESSAGE value="Added Def Function lecture code (will add notes later)" />
     <MESSAGE value="Added HW17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW17" />
+    <MESSAGE value="Added Monty Hall Problem lecture" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
