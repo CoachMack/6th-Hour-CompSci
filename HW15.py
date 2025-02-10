@@ -17,7 +17,3 @@ def counting(x):
     for i in range(1, x + 1):
         print(i)
 #5. Call all of the functions created in 1 - 4 with relevant arguments.
-hello_world()
-average(3, 8, 2)
-animal_list("dog", "cat", "mouse", "horse", "monkey")
-counting(5)
