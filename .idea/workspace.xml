@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW19">
-      <change beforePath="$PROJECT_DIR$/.idea/6th-Hour-CompSci.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/6th-Hour-CompSci.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW18, HW19, SC6 and SC7 review notes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW18.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW19.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +74,7 @@
     "Python.Lecture - For Loops.executor": "Run",
     "Python.Lecture - How NOT to sort.executor": "Run",
     "Python.Lecture - Refresher.executor": "Run",
+    "Python.Lecture - Try Except.executor": "Run",
     "Python.Lecture - While Loops.executor": "Run",
     "Python.Lists Notes.executor": "Run",
     "Python.PB and J.executor": "Run",
@@ -115,14 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723573321926</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added HW2 pseudo-code">
-      <option name="closed" value="true" />
-      <created>1724267309048</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1724267309048</updated>
     </task>
     <task id="LOCAL-00007" summary="Added HW2 homework notes">
       <option name="closed" value="true" />
@@ -508,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738335547319</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Added HW18, HW19, SC6 and SC7 review notes.">
+      <option name="closed" value="true" />
+      <created>1739217634508</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1739217634508</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Conditional Lecture and HW5" />
     <MESSAGE value="Reworked Lecture Notes to make finding things easier" />
     <MESSAGE value="Added HW6" />
     <MESSAGE value="Added HW5 and How NOT to sort lecture" />
@@ -548,6 +541,7 @@
     <MESSAGE value="Added Monty Hall Problem lecture" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Added HW19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW19" />
+    <MESSAGE value="Added HW18, HW19, SC6 and SC7 review notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW18, HW19, SC6 and SC7 review notes." />
   </component>
 </project>
