@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Try Except Lecture and HW20" />
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW21, AI Minecraft lecture, and the roulette game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,10 +65,12 @@
     "Python.HW18.executor": "Run",
     "Python.HW19.executor": "Run",
     "Python.HW2.executor": "Run",
+    "Python.HW21.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
     "Python.HW7.executor": "Run",
+    "Python.Lecture - Classes and Objects.executor": "Run",
     "Python.Lecture - Conditional Statements.executor": "Run",
     "Python.Lecture - Def Functions.executor": "Run",
     "Python.Lecture - For Loops.executor": "Run",
@@ -95,7 +99,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -107,14 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723573321926</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added HW2 homework notes">
-      <option name="closed" value="true" />
-      <created>1724352598378</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1724352598378</updated>
     </task>
     <task id="LOCAL-00009" summary="Added more HW2 lecture notes">
       <option name="closed" value="true" />
@@ -500,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739303574566</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Added HW21, AI Minecraft lecture, and the roulette game">
+      <option name="closed" value="true" />
+      <created>1741025230498</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1741025230498</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW6" />
     <MESSAGE value="Added HW5 and How NOT to sort lecture" />
     <MESSAGE value="Added HW7 assignment" />
     <MESSAGE value="Added HW6 and HW7 notes" />
@@ -540,6 +543,7 @@
     <MESSAGE value="Added HW19" />
     <MESSAGE value="Added HW18, HW19, SC6 and SC7 review notes." />
     <MESSAGE value="Added Try Except Lecture and HW20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Try Except Lecture and HW20" />
+    <MESSAGE value="Added HW21, AI Minecraft lecture, and the roulette game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW21, AI Minecraft lecture, and the roulette game" />
   </component>
 </project>
