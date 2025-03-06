@@ -8,7 +8,7 @@
 
 #3. Print the stock of all three objects and the cost of the second store item.
 
-#4. Make a def function within the class that doubles the cost of the second store item and print the new cost below the original cost print statement.
+#4. Make a def function within the class that doubles the cost an item, double the cost of the second store item, and print the new cost below the original cost print statement.
 
 #5. Directly change the stock of the third store item to approx. 1/4th the original stock and then print the new stock amount.
 

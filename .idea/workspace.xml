@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW21, AI Minecraft lecture, and the roulette game">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Classes and Objects lecture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,14 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723573321926</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Added more HW2 lecture notes">
-      <option name="closed" value="true" />
-      <created>1724698425737</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1724698425737</updated>
     </task>
     <task id="LOCAL-00010" summary="Added more HW2 lecture notes">
       <option name="closed" value="true" />
@@ -504,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741025230498</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Added Classes and Objects lecture">
+      <option name="closed" value="true" />
+      <created>1741204303424</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1741204303424</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW5 and How NOT to sort lecture" />
     <MESSAGE value="Added HW7 assignment" />
     <MESSAGE value="Added HW6 and HW7 notes" />
     <MESSAGE value="Added Scenario 3" />
@@ -544,6 +541,7 @@
     <MESSAGE value="Added HW18, HW19, SC6 and SC7 review notes." />
     <MESSAGE value="Added Try Except Lecture and HW20" />
     <MESSAGE value="Added HW21, AI Minecraft lecture, and the roulette game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW21, AI Minecraft lecture, and the roulette game" />
+    <MESSAGE value="Added Classes and Objects lecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Classes and Objects lecture" />
   </component>
 </project>
