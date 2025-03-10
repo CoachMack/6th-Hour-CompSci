@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added Classes and Objects lecture" />
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW22">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario7.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +73,7 @@
     "Python.HW19.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW21.executor": "Run",
+    "Python.HW23.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
@@ -83,6 +93,7 @@
     "Python.Scenario 2.executor": "Run",
     "Python.Scenario 3.executor": "Run",
     "Python.Scenario 4.executor": "Run",
+    "Python.Scenario8.executor": "Run",
     "Python.Scenario_6.executor": "Run",
     "Python.Scenario_7.executor": "Run",
     "Python.TestBox.executor": "Run",
@@ -109,14 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723573321926</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Added more HW2 lecture notes">
-      <option name="closed" value="true" />
-      <created>1724777115669</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1724777115669</updated>
     </task>
     <task id="LOCAL-00011" summary="Added Lists lecture notes">
       <option name="closed" value="true" />
@@ -502,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741204303424</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Added HW22">
+      <option name="closed" value="true" />
+      <created>1741285142746</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1741285142746</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW7 assignment" />
     <MESSAGE value="Added HW6 and HW7 notes" />
     <MESSAGE value="Added Scenario 3" />
     <MESSAGE value="Added HW8 work" />
@@ -542,6 +552,7 @@
     <MESSAGE value="Added Try Except Lecture and HW20" />
     <MESSAGE value="Added HW21, AI Minecraft lecture, and the roulette game" />
     <MESSAGE value="Added Classes and Objects lecture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Classes and Objects lecture" />
+    <MESSAGE value="Added HW22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW22" />
   </component>
 </project>

@@ -3,7 +3,7 @@
 #Assignment: Scenario 7
 
 #Import all of Scenario 6 here
-from Scenario_6 import *
+from Scenario6 import *
 
 listAverage = 0
 
