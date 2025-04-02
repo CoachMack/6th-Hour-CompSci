@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW23, Scenario 8, and renamed old Scenario files to match formatting">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW22.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW23.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/CoachMack/6th-Hour-CompSci.git&quot;,
-    &quot;accountId&quot;: &quot;e4417706-3df7-43fc-89a3-12d152b5c5c8&quot;
+    &quot;accountId&quot;: &quot;185de2c6-a3eb-406b-873f-10863b60bc0e&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -70,6 +68,7 @@
     "Python.HW21.executor": "Run",
     "Python.HW22.executor": "Run",
     "Python.HW23.executor": "Run",
+    "Python.HW25.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
@@ -104,7 +103,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
