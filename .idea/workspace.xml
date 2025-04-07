@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW23, Scenario 8, and renamed old Scenario files to match formatting">
+    <list default="true" id="a56b4c61-9dfa-4dc4-a414-11aa4e3794a3" name="Changes" comment="Added HW22 and HW23 Review Notes">
+      <change beforePath="$PROJECT_DIR$/.idea/6th-Hour-CompSci.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/6th-Hour-CompSci.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW22.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW23.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW24.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,55 +53,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DictionariesLecture.executor": "Run",
-    "Python.HW Template.executor": "Run",
-    "Python.HW10.executor": "Run",
-    "Python.HW11.executor": "Run",
-    "Python.HW12.executor": "Run",
-    "Python.HW13.executor": "Run",
-    "Python.HW14.executor": "Run",
-    "Python.HW15.executor": "Run",
-    "Python.HW16.executor": "Run",
-    "Python.HW17.executor": "Run",
-    "Python.HW18.executor": "Run",
-    "Python.HW19.executor": "Run",
-    "Python.HW2.executor": "Run",
-    "Python.HW21.executor": "Run",
-    "Python.HW22.executor": "Run",
-    "Python.HW23.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW5.executor": "Run",
-    "Python.HW6.executor": "Run",
-    "Python.HW7.executor": "Run",
-    "Python.Lecture - Classes and Objects.executor": "Run",
-    "Python.Lecture - Conditional Statements.executor": "Run",
-    "Python.Lecture - Def Functions.executor": "Run",
-    "Python.Lecture - For Loops.executor": "Run",
-    "Python.Lecture - How NOT to sort.executor": "Run",
-    "Python.Lecture - Refresher.executor": "Run",
-    "Python.Lecture - Try Except.executor": "Run",
-    "Python.Lecture - While Loops.executor": "Run",
-    "Python.Lists Notes.executor": "Run",
-    "Python.PB and J.executor": "Run",
-    "Python.PlaygroundFixesLecture.executor": "Run",
-    "Python.Scenario 1.executor": "Run",
-    "Python.Scenario 2.executor": "Run",
-    "Python.Scenario 3.executor": "Run",
-    "Python.Scenario 4.executor": "Run",
-    "Python.Scenario8.executor": "Run",
-    "Python.Scenario_6.executor": "Run",
-    "Python.Scenario_7.executor": "Run",
-    "Python.TestBox.executor": "Run",
-    "Python.pythonMath.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DictionariesLecture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW Template.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Classes and Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Conditional Statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Def Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - For Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - How NOT to sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Refresher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - Try Except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture - While Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists Notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB and J.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PlaygroundFixesLecture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestBox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonMath.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JeremyMcKellips/PycharmProjects/6th-Hour-CompSci&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -116,14 +118,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723573321926</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Updated Lists lecture notes with comments providing more information">
-      <option name="closed" value="true" />
-      <created>1724864569494</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1724864569494</updated>
     </task>
     <task id="LOCAL-00014" summary="Added HW3 Assignment">
       <option name="closed" value="true" />
@@ -509,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741626917893</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Added HW22 and HW23 Review Notes">
+      <option name="closed" value="true" />
+      <created>1742842839997</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1742842839997</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Scenario 3" />
     <MESSAGE value="Added HW8 work" />
     <MESSAGE value="Added Scenario 3 notes and While Loops Lecture" />
     <MESSAGE value="Added HW10 and HW11" />
@@ -549,6 +550,7 @@
     <MESSAGE value="Added Classes and Objects lecture" />
     <MESSAGE value="Added HW22" />
     <MESSAGE value="Added HW23, Scenario 8, and renamed old Scenario files to match formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW23, Scenario 8, and renamed old Scenario files to match formatting" />
+    <MESSAGE value="Added HW22 and HW23 Review Notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW22 and HW23 Review Notes" />
   </component>
 </project>
